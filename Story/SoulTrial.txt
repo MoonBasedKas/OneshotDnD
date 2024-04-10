@@ -1,0 +1,20 @@
+- Trail of sacrifice - 
+Someone must be brought here and soul must be offered.
+
+Tranlating the slab on the wall (Arcana) will tell the party that this gem must be powered by a soul.
+
+You can describe the tablet/room to kryell and he will tell you that you need to sacrifice a soul.
+
+Ways of obtaining souls:
+% You can hire a bard.
+% Water way will give a prisoner to sacrifice if you find the hut.
+% Soul Jars.
+    - If you kill the murderer the gaurds will have one if you ask about needing a soul.
+% Killing someone in the room.
+    - Can be anyone but hard to convince people without a reason to follow you.
+    - Kryell, the king, and the head cleric will refuse to follow
+% The traveler.
+    - Will be unable to assist later on.
+
+Completing will give a gem
+- END -

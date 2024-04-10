@@ -1,0 +1,24 @@
+- Background - 
+Is a mine that is currently blocked off with rubble.
+- End Background -
+
+- Unlocking the back room -
+If you destroy the door or unlock the door that was built you'll engage combat with a group of vampires.
+- End Unlocking the bakc room -
+
+- Entering with the artifact -
+The door in the very back will begin to glow.
+
+Opening this door will reveal a magical dagger which is floating.
+%ansrivarr's Dagger:
+%-
+This dagger does 10d4 radiant against vampires.
+Does 2d4 radiant against undead.
+Base damage 1d4 + DEX + 1
+%-
+
+-- Giving ansrivarr's dagger to Kryell --
+Unlocks his support for the door.
+-- End giving ansrivarr's dagger to Kryell --
+
+- End Entering with the artifact

@@ -4,19 +4,39 @@ it is unable to be opened magically or forced.
 - END EXIST FIRST TIME -
 
 - Opening - 
+
 -- Kryell's support / empower the clergy --
 If you obtain Kryell's artifact he will meet you here offering to help escape.
 
 If the clergy was empowered at water way from the town debate Kryell will attempt to escape 
 anyways. His invitation is no longer extended.
 -- END Kryell's support --
+
 -- The traveler -- 
 The traveler will always attempt to assist you unless you kill them or piss them off.
 -- End the travel --
+
 -- nobility support -- 
 If you convince the town to resolve the debate by adventuring outside the gate the king will send 
 two knights in aiding breaking through the gate.
 -- end nobility support --
+
 -- killing the clergy -- 
+The remaining clergy men will be there to fight you as a last resort.
+-- End killing the clergy --
+
+-- Convincing the clergy to convert -- 
+Any part member who is downed in combat against Valentine will be revived.
+-- End Convincing the clergy to convert --
+
+-- Helping the green family -- 
+If you clear out the mines the party will be granted a +1 buff once reaching the gate.
+-- End helping the green faimly --
 
 - end opening - 
+
+- Meeting Valentine -
+He will introduce the players as the great ansrivarr and grant the explorers to ask one question as a reward before he kills them for violating ansrivarr's will.
+
+Engage combat
+- End meeting Valentine -
