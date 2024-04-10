@@ -1,0 +1,43 @@
+The obilisk is a place of worship located in the center of the map.
+
+- JOIN priests -
+People from water way make pilgrimages to travel here every now and then.
+If they meet with the priests this is where they will recieve 
+communicate with the obilisk. the priests will be instructed "MISTAKE KILL". Which will 
+initiate combat.
+
+Afterwards a traveler will visit and begin the meet at night sequence.
+- end JOIN PRIESTS -
+
+- Meet at night -
+A traveler will arrive telling you they've discovered a text detailing how to escape circulating 
+within the fort. A wizard has recently arrived in the search of an artifact to cure vampirism. When the 
+priests asked the obilisk they were told "UNKNOWN". Since then he's been posted in the Ivory Tower.
+This has created a rift between the priests and the nobility. As the nobility wants him to be alive so 
+they can discover the outside world but the priests believe of him as a heretic.
+
+The traveler will direct them towards Water Way. Giving a writ of passage to the fort. If they ever need 
+to talk to the traveler they will be provided a sending stone. Can communicate with the traveler once a day 
+up to 15 words. 
+- end Meet at Night -
+
+- GIVE STONES -
+Giving the stones will force the gate at near where the party started open. Opening the gate will anger 
+the clergy however obtain the support of the nobility. As a result when returning to Water way there will be 
+a debate held in the building of meeting in water way.
+
+-- Resolve gate -- 
+In the town center in water way there will be a debate held.
+--- don't visit ---?
+The town will be seen at the end burning down. It the rift became too big.
+--- Don't visit end ---
+--- Other --- ?
+Depends on water way outcome.
+--- Other end ---
+-- Resolve gate end --
+
+-- Annoying the clergy --
+With each stone added the clergy will become incresingly more hostile towards the players after each meeting 
+with the nobility.
+-- annoying the clergy end --
+- End give stones -

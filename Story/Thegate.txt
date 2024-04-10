@@ -1,0 +1,22 @@
+- EXIT FIRST TIME - 
+Upon existing the gate for the first time the players will notice a gate. Can attempt to decipher however 
+it is unable to be opened magically or forced.
+- END EXIST FIRST TIME -
+
+- Opening - 
+-- Kryell's support / empower the clergy --
+If you obtain Kryell's artifact he will meet you here offering to help escape.
+
+If the clergy was empowered at water way from the town debate Kryell will attempt to escape 
+anyways. His invitation is no longer extended.
+-- END Kryell's support --
+-- The traveler -- 
+The traveler will always attempt to assist you unless you kill them or piss them off.
+-- End the travel --
+-- nobility support -- 
+If you convince the town to resolve the debate by adventuring outside the gate the king will send 
+two knights in aiding breaking through the gate.
+-- end nobility support --
+-- killing the clergy -- 
+
+- end opening - 
