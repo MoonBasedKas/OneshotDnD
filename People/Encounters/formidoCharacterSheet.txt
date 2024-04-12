@@ -1,0 +1,122 @@
+formido
+Wizard
+human
+------------------------------------------------------------
+Armor Class: 10
+Speed: 30
+Initiative: 
+Health: 40
+Current Health: 
+------------------------------------------------------------
+Str: 6
+Dex: 16
+Con: 20
+Int: 20
+Wis 10
+Cha 8
+------------------------------------------------------------
+Saving Throws
+--
+Strength: -2
+Dexterity: 3
+Constitution: 5
+Intelligence: 5
+Wisdom: 0
+Charisma: -1
+------------------------------------------------------------
+Skills
+--
+Athletics: -2
+Acrobatics: 3
+Sleight of Hand: 3
+Stealth: 3
+Arcana: 5
+History: 5
+Investigation: 5
+Nature: 5
+Religion: 5
+Animal Handling: 0
+Insight: 0
+Medicine: 0
+Perception: 0
+Survival: 0
+Deception: -1
+Performance: -1
+Intimidation: -1
+Persuasion: -1
+------------------------------------------------------------
+Attacks
+--
+Attack Type: EXPLOSION 
+Attack Bonus: always hit
+Damage: 20d20 fire damage + 5d4 Force damage
+Description
+After a 10 turn charge unleash an 20ft radial explosion dealing 20d20 damage within the explosion.
+Within a 100ft radial deal 5d4 force damage.
+User is incapaciated after use.
+
+
+--
+------------------------------------------------------------
+Misc Proficiencies
+--
+Proficiency: 
+--
+------------------------------------------------------------
+Traits
+------------------------------------------------------------
+Trait: 
+--
+Description
+
+
+--
+------------------------------------------------------------
+Equipment
+------------------------------------------------------------
+Item: Staff of guidence
+--
+While weidling this staff spells gain an additional 100ft range however casting outside of your regular range 
+gives 2 points of exhuastion. Can not die from exhuastion due to the staff instead become incapaciated for the next 
+24 hours. 
+
+Can add an 2 additional points of exhuastion for increasing the AOE effect of spells by 10 ft.
+
+Can add an 2 additional points of exhuastion for increasing the spell damage by 1 die.
+
+Can be increased to a max of 6 points where you will immediately be incapaciated for the next 24 hours.
+
+Melee deals 1d8 + dex bludgeting damage.
+--
+------------------------------------------------------------
+------------------------------------------------------------
+Spells
+--
+-
+Spell: 
+Description:
+
+
+-
+--
+------------------------------------------------------------
+Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 
+Used Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 

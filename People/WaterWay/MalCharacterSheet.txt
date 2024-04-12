@@ -1,0 +1,155 @@
+Mal BARD
+Bard
+Human
+------------------------------------------------------------
+Armor Class: 
+Speed: 30
+Initiative: 
+Health: 14
+Current Health: 
+------------------------------------------------------------
+Str: 10
+Dex: 14
+Con: 18
+Int: 12
+Wis 13
+Cha 17
+------------------------------------------------------------
+Saving Throws
+--
+Strength: 0
+Dexterity: 4
+Constitution: 4
+Intelligence: 1
+Wisdom: 1
+Charisma: 5
+------------------------------------------------------------
+Skills
+--
+Athletics: 0
+Acrobatics: 2
+Sleight of Hand: 2
+Stealth: 2
+Arcana: 1
+History: 1
+Investigation: 1
+Nature: 1
+Religion: 1
+Animal Handling: 1
+Insight: 1
+Medicine: 1
+Perception: 1
+Survival: 1
+Deception: 3
+Performance: 11
+Intimidation: 3
+Persuasion: 3
+------------------------------------------------------------
+Attacks
+--
+Attack Type: Thunderclap
+Attack Bonus: +6
+Damage: 2d6 Thunder Damage
+Description
+
+
+--
+--
+Attack Type: Vicious Mocker
+Attack Bonus: Special
+Damage: 2d4 Physic Damage
+Description
+Must succeed a wisdom saving through on fail take 1d4 damage and have disadvantage on the next attack roll before the end of its turn.
+
+--
+------------------------------------------------------------
+Misc Proficiencies
+--
+Proficiency: 
+--
+------------------------------------------------------------
+Traits
+------------------------------------------------------------
+Trait: Bardic Inspiration
+--
+Description
+You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. 
+That creature gains one Bardic Inspiration die, a d6.
+
+Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. 
+The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration die, but must decide before the DM says whether the roll succeeds or fails. 
+Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time.
+
+You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain any expended uses when you finish a long rest.
+
+Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.
+
+--
+------------------------------------------------------------
+Equipment
+------------------------------------------------------------
+Item: Gloves of dual casting
+--
+Description
+When casting a cantrip you cast a second time directed at the same enemy.
+
+--
+------------------------------------------------------------
+------------------------------------------------------------
+Spells
+--
+-
+Spell: Speak with animals
+Description:
+Until next long rest have the ability to speak with animals
+
+-
+-
+Spell: Healing word
+Description:
+heal 1d4 + 5 to a target within 60 feet.
+
+-
+-
+Spell: Detect magic 
+Description:
+
+For the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.
+
+The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
+-
+-
+Spell: Disguise self
+Description:
+You make yourself – including your clothing, armor, weapons, and other belongings on your person – look different until the spell ends or until you use your action to dismiss it. 
+You can seem 1 foot shorter or taller and can appear thin, fat, or in between. You can’t change your body type, so you must adopt a form that has the same basic arrangement of limbs. 
+Otherwise, the extent of the illusion is up to you.
+
+The changes wrought by this spell fail to hold up to physical inspection. 
+For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel your head and hair.
+If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair.
+To discern that you are disguised, a creature can use its action to inspect your appearance and must succeed on an Intelligence (Investigation) check against your spell save DC.
+
+-
+--
+------------------------------------------------------------
+Spell slots:
+1: 2
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 
+Used Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 

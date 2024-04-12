@@ -1,0 +1,10 @@
+Players find a goblen tree house of 3d6 golbins.
+https://www.dndbeyond.com/monsters/16907-goblin
+HP: 4d6
+Speed: 30 
+STR:
+DEX:
+CON:
+INT:
+WIS:
+CHA:
