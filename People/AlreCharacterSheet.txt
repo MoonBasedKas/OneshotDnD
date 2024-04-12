@@ -1,0 +1,152 @@
+Alre
+Scout Rouge
+Human
+------------------------------------------------------------
+Armor Class: 
+Speed: 30
+Initiative: 
+Health: 48
+Current Health: 
+------------------------------------------------------------
+Str: 14
+Dex: 18
+Con: 16
+Int: 14
+Wis 12
+Cha 10
+------------------------------------------------------------
+Saving Throws
+--
+Strength: 2
+Dexterity: 7
+Constitution: 3
+Intelligence: 5
+Wisdom: 1
+Charisma: 0
+------------------------------------------------------------
+Skills
+--
+Athletics: 2
+Acrobatics: 7
+Sleight of Hand: 10
+Stealth: 10
+Arcana: 2
+History: 2
+Investigation: 5
+Nature: 5
+Religion: 2
+Animal Handling: 1
+Insight: 1
+Medicine: 1
+Perception: 1
+Survival: 4
+Deception: 0
+Performance: 0
+Intimidation: 0
+Persuasion: 0
+------------------------------------------------------------
+Attacks
+--
+Attack Type: Main hand rapier 
+Attack Bonus: 7
+Damage: 1d8 + 4 percing 
+Description
+
+
+--
+--
+Attack Type: off hand rapier 
+Attack Bonus: 0
+Damage: 1d8 piercing
+Description
+Can be done as a bonus action.
+
+
+--
+--
+Attack Type: Sneak attack
+Attack Bonus: 
+Damage: 3d6 + Main hand weapon
+Description
+Action when you have advantage or another enemey of the target is within 5 feet. Done as additional damage.
+
+
+--
+------------------------------------------------------------
+Misc Proficiencies
+--
+Proficiency: 
+--
+------------------------------------------------------------
+Traits
+------------------------------------------------------------
+Trait: Uncanny Dodge
+--
+Starting at 5th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.
+--
+Trait: Sneak attack
+--
+Description
+
+
+--
+Trait: cunning action
+--
+Description
+
+
+--
+Trait: Skirmisher
+--
+Description
+Starting at 3rd level, you are difficult to pin down during a fight. You can move up to half your speed as a reaction when an enemy ends its turn within 5 feet of you. This movement doesn’t provoke opportunity attacks.
+
+--
+Trait: Survivalist
+--
+Description
+When you choose this archetype at 3rd level, you gain proficiency in the Nature and Survival skills if you don't already have it. 
+Your proficiency bonus is doubled for any ability check you make that uses either of those proficiencies.
+
+--
+------------------------------------------------------------
+Equipment
+------------------------------------------------------------
+Item: 
+--
+Description
+
+
+--
+------------------------------------------------------------
+------------------------------------------------------------
+Spells
+--
+-
+Spell: 
+Description:
+
+
+-
+--
+------------------------------------------------------------
+Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 
+Used Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 
