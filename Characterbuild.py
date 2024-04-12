@@ -3,13 +3,14 @@ class character:
         self.setAttributes()
         self.initSkills()
         self.setSkils()
+        self.health = self.level * (self.hpAveage + self.getBonus(self.con))
         
 
     def setAttributes(self):
         self.speed = int(input("Input character Speed: "))
         self.level = int(input("Input character level: "))
         self.hpAveage = int(input("Input character Average level-up HP: "))
-        self.health = self.level * self.hpAveage
+        
 
         self.str = int(input("Input character STR: "))
         self.dex = int(input("Input character Dex: "))
@@ -59,42 +60,45 @@ class character:
 
     def writeStats(self):
         fp = open(self.name + "CharacterSheet.txt", "w")
-
+        savingThrows = ["Strength", "Dexterity","Constitution", "Intelligence", "Wisdom","Charisma"]
+        skills = ["Athletics", "Acrobatics", "Sleight of Hand", "Stealth", "Arcana", "History", "Investigation", "Nature", "Religion",  "Animal Handling",  "Insight", "Medicine", "Perception", "Survival",
+        "Deception", "Intimidation", "Performance", "Persuasion"]
         wrString = "{}\n{}\n{}\n".format(self.name, self.characterClass, self.race)
-        wrString += "-----\n"
+        wrString += "------------------------------------------------------------\n"
         wrString += "Armor Class: \nSpeed: {}\nInitiative: \nHealth: {}\nCurrent Health: \n".format(self.speed, self.health)
-        wrString += "-----\n"
+        wrString += "------------------------------------------------------------\n"
         wrString += "Str: {}\nDex: {}\nCon: {}\nInt: {}\nWis {}\nCha {}\n".format(self.str, self.dex, self.con, self.int, self.wis, self.cha)
-        wrString += "-----\n"
+        wrString += "------------------------------------------------------------\n"
         wrString += "Saving Throws\n--\n"
 
-        for val in self.savingThrows.keys():
-            wrString += "val: {}\n".format(self.savingThrows[val])
+        for val in savingThrows:
+            wrString += "{}: {}\n".format(val, self.savingThrows[val])
 
-        wrString += "-----\nSkills\n--\n"
+        wrString += "------------------------------------------------------------\nSkills\n--\n"
 
         for val in self.skills.keys():
-            wrString += "val: {}\n".format(self.skills[val])
+            wrString += "{}: {}\n".format(val, self.skills[val])
 
-        wrString += "-----\n"
+        wrString += "------------------------------------------------------------\n"
         wrString += "Attacks\n"
         wrString += "--\n"
         wrString += "Attack Type: \n"
         wrString += "Attack Bonus: \n"
-        wrString += "Damage\n"
+        wrString += "Damage:\n"
+        wrString += "Description\n\n\n"
         wrString += "--\n"
-        wrString += "-----\n"
+        wrString += "------------------------------------------------------------\n"
 
         wrString += "Misc Proficiencies\n--\n"
         wrString += "Proficiency: \n"
-        wrString += "--\n-----\n"
+        wrString += "--\n------------------------------------------------------------\n"
 
 
-        wrString += "Traits\n-----\nTrait: \n--\nDescription\n\n\n--\n-----\n"
+        wrString += "Traits\n------------------------------------------------------------\nTrait: \n--\nDescription\n\n\n--\n------------------------------------------------------------\n"
 
-        wrString += "Equipment\n-----\nItem: \n--\nDescription\n\n\n--\n-----\n"
+        wrString += "Equipment\n------------------------------------------------------------\nItem: \n--\nDescription\n\n\n--\n------------------------------------------------------------\n"
 
-        wrString += "-----\n"
+        wrString += "------------------------------------------------------------\n"
         wrString += "Spells\n"
         wrString += "--\n"
         wrString += "-\n"
@@ -102,7 +106,7 @@ class character:
         wrString += "Description:\n\n\n"
         wrString += "-\n"
         wrString += "--\n"
-        wrString += "-----\n"
+        wrString += "------------------------------------------------------------\n"
 
         wrString +="Spell slots:\n1: \n2: \n3: \n4: \n5: \n6: \n7: \n8: \n9: \n"
 

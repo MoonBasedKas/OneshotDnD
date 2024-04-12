@@ -1,0 +1,199 @@
+Valetine
+Monk
+Human
+-----
+Armor Class: 18
+Speed: 60
+Initiative: 5
+Health: 68
+Current Health: 12
+-----
+------------------------------------------------------------
+Str: 16
+Dex: 20
+Con: 17
+Int: 15
+Wis 16
+Cha 11
+------------------------------------------------------------
+Saving Throws
+--
+Strength: 7
+Dexterity: 9
+Constitution: 3
+Intelligence: 2
+Wisdom: 3
+Charisma: 0
+------------------------------------------------------------
+Skills
+--
+Athletics: 7
+Acrobatics: 9
+Sleight of Hand: 5
+Stealth: 9
+Arcana: 2
+History: 2
+Investigation: 2
+Nature: 2
+Religion: 2
+Animal Handling: 3
+Insight: 3
+Medicine: 3
+Perception: 3
+Survival: 3
+Deception: 4
+Performance: 0
+Intimidation: 8
+Persuasion: 0
+-----
+Attacks
+--
+Attack Type: Unarmed attack
+Attack Bonus: +5
+Damage: 1d6 + 1d4 + 5 bludging damage
+--
+Attack Type: Soul Shock
+Attack Bonus: +20
+Damage: Temporary hitpoints Nectrotic Damage.
+
+Description:
+Lose all temporary hit points but deal that as damage.
+--
+-----
+Misc Proficiencies
+--
+Proficiency: Simple weapons, shortswords
+--
+-----
+Traits
+-----
+Trait: Tavern Brawler
+--
+Description
+Unarmed strikes do an additional 1d4
+Successful unarmed strikes allow grapple bonus action.
+--
+Trait: Lucky
+--
+Description
+You have 3 luck points. Whenever you make an attack roll, an ability check, or a saving throw, you can spend one luck point to roll an additional d20.
+You can choose to spend one of your luck points after you roll the die, but before the outcome is determined.
+You choose which of the d20s is used for the attack roll, ability check, or saving throw.
+
+You can also spend one luck point when an attack roll is made against you. Roll a d20 and then choose whether the attack uses the attacker's roll or yours.
+
+If more than one creature spends a luck point to influence the outcome of a roll, the points cancel each other out; no additional dice are rolled.
+
+You regain your expended luck points when you finish a long rest.
+
+--
+Trait: Unarmored Defense
+--
+Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Wisdom modifier.
+
+
+
+--
+Trait: Ki
+--
+Starting at 2nd level, your training allows you to harness the mystic energy of ki. Your access to this energy is represented by a number of ki points. Your monk level determines the number of points you have, as shown in the Ki Points column of the Monk table.
+
+You can spend these points to fuel various ki features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind. You learn more ki features as you gain levels in this class.
+
+When you spend a ki point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended ki back into yourself. You must spend at least 30 minutes of the rest meditating to regain your ki points.
+
+Some of your ki features require your target to make a saving throw to resist the feature's effects. The saving throw DC is calculated as follows:
+
+Ki save DC = 8 + your proficiency bonus + your Wisdom modifier
+
+Flurry of Blows. Immediately after you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action.
+Patient Defense. You can spend 1 ki point to take the Dodge action as a bonus action on your turn.
+Step of the Wind. You can spend 1 ki point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.
+
+--
+Trait: Deflect Missles
+--
+Starting at 3rd level, you can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1d10 + your Dexterity modifier + your monk level.
+
+If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free.
+If you catch a missile in this way, you can spend 1 ki point to make a ranged attack with a range of 20/60 using the weapon or piece of ammunition you just caught, as part of the same reaction.
+You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack.
+--
+Trait: Extra Attack
+--
+you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+--
+Trait: Ki-Empowered Strikes
+--
+Starting at 6th level, your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+
+--
+Trait: Evasion
+--
+At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon's lightning breath or a fireball spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+
+--
+Trait: Stillness of Mind
+--
+Starting at 7th level, you can use your action to end one effect on yourself that is causing you to be charmed or frightened
+
+--
+Trait: Purity of Body
+--
+At 10th level, your mastery of the ki flowing through you makes you immune to disease and poison.
+
+--
+--
+Trait: Touch of Death
+--
+Starting when you choose this tradition at 3rd level, your study of death allows you to extract vitality from another creature as it nears its demise.
+When you reduce a creature within 5 feet of you to 0 hit points, you gain temporary hit points equal to your Wisdom modifier + your monk level (minimum of 1 temporary hit point).
+--
+--
+Trait: Hour of Reaping
+--
+At 6th level, you gain the ability to unsettle or terrify those around you as an action, for your soul has been touched by the shadow of death.
+ When you take this action, each creature within 30 feet of you that can see you must succeed on a Wisdom saving throw or be frightened of you until the end of your next turn.
+--
+-----
+Equipment
+-----
+Item: 
+--
+Description
+
+
+--
+-----
+-----
+Spells
+--
+-
+Spell: 
+Description:
+
+
+-
+--
+-----
+Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 
+Used Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 
