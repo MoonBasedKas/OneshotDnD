@@ -1,81 +1,84 @@
 Kryell
 Wizard Abjuration
-Wood-Elf
------
-Armor Class: 12
+Wood Elf
+------------------------------------------------------------
+Armor Class: 
 Speed: 45
-Initiative: 2
-Health: 48
-Current Health: 48
------
+Initiative: 
+Health: 60
+Current Health: 
+------------------------------------------------------------
 Str: 8
 Dex: 14
-Con: 10
+Con: 12
 Int: 20
 Wis 14
 Cha 12
------
+------------------------------------------------------------
 Saving Throws
 --
-val: -1
-val: 2
-val: 0
-val: 9
-val: 6
-val: 1
------
+Strength: -1
+Dexterity: 2
+Constitution: 1
+Intelligence: 9
+Wisdom: 6
+Charisma: 1
+------------------------------------------------------------
 Skills
 --
-val: -1
-val: 2
-val: 2
-val: 6
-val: 9
-val: 5
-val: 9
-val: 5
-val: 5
-val: 2
-val: 6
-val: 2
-val: 6
-val: 2
-val: 1
-val: 1
-val: 1
-val: 5
------
+Athletics: -1
+Acrobatics: 2
+Sleight of Hand: 2
+Stealth: 6
+Arcana: 9
+History: 5
+Investigation: 9
+Nature: 5
+Religion: 5
+Animal Handling: 2
+Insight: 6
+Medicine: 2
+Perception: 6
+Survival: 2
+Deception: 1
+Performance: 1
+Intimidation: 1
+Persuasion: 5
+------------------------------------------------------------
 Attacks
 --
 Attack Type: 
 Attack Bonus: 
-Damage
+Damage:
+Description
+
+
 --
------
+------------------------------------------------------------
 Misc Proficiencies
 --
 Proficiency: 
 --
------
+------------------------------------------------------------
 Traits
------
+------------------------------------------------------------
 Trait: 
 --
 Description
 
 
 --
------
+------------------------------------------------------------
 Equipment
------
+------------------------------------------------------------
 Item: 
 --
 Description
 
 
 --
------
------
+------------------------------------------------------------
+------------------------------------------------------------
 Spells
 --
 -
@@ -85,7 +88,7 @@ Description:
 
 -
 --
------
+------------------------------------------------------------
 Spell slots:
 1: 
 2: 
