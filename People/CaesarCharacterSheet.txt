@@ -1,0 +1,150 @@
+Caesar
+Paladin OathBreaker
+Human
+------------------------------------------------------------
+Armor Class: 18
+Speed: 30
+Initiative: 1
+Health: 80
+Current Health: 80 
+------------------------------------------------------------
+Str: 17
+Dex: 12
+Con: 14
+Int: 10
+Wis 10
+Cha 18
+------------------------------------------------------------
+Saving Throws
+--
+Strength: 3
+Dexterity: 1
+Constitution: 2
+Intelligence: 0
+Wisdom: 3
+Charisma: 7
+------------------------------------------------------------
+Skills
+--
+Athletics: 6
+Acrobatics: 1
+Sleight of Hand: 1
+Stealth: 1
+Arcana: 0
+History: 0
+Investigation: 0
+Nature: 0
+Religion: 3
+Animal Handling: 0
+Insight: 0
+Medicine: 6
+Perception: 0
+Survival: 0
+Deception: 4
+Performance: 4
+Intimidation: 4
+Persuasion: 7
+------------------------------------------------------------
+Attacks
+--
+Attack Type: Long Sword 
+Attack Bonus: +6
+Damage: 1d8 Slashing + 3
+        1d4 Nectrotic
+        
+Description
+Upon dealing Nectrotic damage heal 1hp.
+
+--
+Attacks
+--
+Attack Type: Long Sword Off hand
+Attack Bonus: 0
+Damage: 1d8 Slashing
+        
+Description
+Can be done as a bonus action.
+--
+------------------------------------------------------------
+Misc Proficiencies
+--
+Proficiency: All armor, Shields, simple weapons, martial weapons.
+--
+------------------------------------------------------------
+Traits
+------------------------------------------------------------
+Trait: 
+--
+Description
+
+
+--
+Trait: Vigor of a broken Oath 
+--
+Description
+Once per long rest when your HP reaches zero gain back full health.
+Each turn you take 1d20 Nectrotic damage but your next attack does the same damage.
+
+Effect can only be removed with cure curse. Cannot be revived afterwards.
+--
+------------------------------------------------------------
+Equipment
+------------------------------------------------------------
+Item: Sword of the Next Caesar
+--
+Description
+deal 1d4 Nectrotic damage each time Nectrotic damage is dealt heal 1hp.
+1d10(1d8).
+Upon slaying an enemy regain movemenet, actions, and bonus actions.
+
+--
+------------------------------------------------------------
+------------------------------------------------------------
+Item: Armor of the Next Caesar
+--
+Description
+AC 18
+Heavy armor
+Upon taking Nectrotic damage gain the ability to deal half that damage as radiant damage next hit rounded down.
+
+--
+------------------------------------------------------------
+------------------------------------------------------------
+Spells
+--
+-
+Spell: Divine Smite 
+Description:
+Deal 2d8 radiant damage + 1d8 per spell level higher than 1. 
+
+-
+-
+Spell: Inflict wounds
+Description:
+Make a melee spell attack against a creature you can reach. On a hit, the target takes 3d10 necrotic damage.
+
++ 1d10 Nectrotic damage per level higher than 1.
+
+-
+--
+------------------------------------------------------------
+Spell slots:
+1: 4
+2: 3
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 
+Used Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 
