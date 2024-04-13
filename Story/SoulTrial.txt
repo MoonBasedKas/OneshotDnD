@@ -15,6 +15,7 @@ Ways of obtaining souls:
     - Kryell, the king, and the head cleric will refuse to follow
 % The traveler.
     - Will be unable to assist later on.
+% Some random encounters.
 
 Completing will give a gem
 - END -

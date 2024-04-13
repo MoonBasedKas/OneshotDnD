@@ -1,0 +1,47 @@
+--- First time Entering ---
+First time entering the gaurds will stop you and request a writ of passage.
+If you do not have you have to initiate combat or convince the guards DC 25.
+
+Upon entering they'll suggest you visit kryell for more information.
+
+In the court yard there will be an investor with a board, papers, and red string 
+connecting the papers.
+
+Can also talk to the king who will ask why you are here.
+If you tell him you are here to meet with kryell he will direct you towards kryell.
+
+There is a chef in the kitchen who is looking for vanilla plant. If you ask where to look 
+he says he believes the forest grows vanilla however it is very rare to the biome. He just wants 
+the plant itself and he can deal with processing.
+
+You also gain the Fort as a place where you can have long rests without
+events occuring.
+--- END first time entering --- 
+
+--- Chef --- 
+Bringing back the vanilla plant will reward you with 250g and a potion 
+of hill giants strength for each member of the party 
+--- end Chef ---
+
+--- Investigator ---
+When inquiring he will tell you about finding a crime scene one where the body appeared 
+mangled to the point of being unreconigable. Ever since then for the past few months an inquire
+has been launched and disapearing people have now been hypothesised leading upwards to years before
+the origianl scene.
+
+--- Finding the house ---
+You can tell the Investigator and he will visit the house.
+
+You can also tell any guard and the same result will happen.
+
+Next time you speak with the investor he will reward you 500g and will aide the party 
+if they ever ask. 
+
+If you tell the Investigator or bring him to the Soul room he will give you a jar of souls instead.
+--- end finding the house ---
+
+--- end Investigator ---
+
+
+--- KING ---
+If you ask the blue prince about the afairs of the town he will describe

@@ -8,7 +8,7 @@ Can be found if you roll a 20 on a Survival check in the forest.
 - END enter without knowledge -
 
 - Telling the guard you found a mysteroius hut -
-They will disbatch a group of knights to go purge the hut. The hut will be burnt down however the Murder will still be lose 
+They will disbatch a group of knights w/ the Investigator to go purge the hut. The hut will be burnt down however the Murder will still be lose 
 but weakened (half health w/ no spell slots). Next random encounter will be the murderer.
 
 You will be allowed a prisoner to sacrifice if you ask the noble after discovering the trails of souls. 
