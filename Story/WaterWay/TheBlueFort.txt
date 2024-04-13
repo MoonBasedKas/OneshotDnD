@@ -44,4 +44,31 @@ If you tell the Investigator or bring him to the Soul room he will give you a ja
 
 
 --- KING ---
-If you ask the blue prince about the afairs of the town he will describe
+If you ask the blue prince about the afairs of the town he will describe that there is an upcoming town 
+meeting with the clergy about what to do with the news about the outside world. 
+
+The nobility wants to help kryell with exploring outside the gate however the clergy believes 
+it will send Waterway into damnation. There's been an agreement for the past month that for now Kryell 
+must stay in the ivory tower until Waterway comes to a consensus on what to do with Kryell.
+
+The meeting wont trigger until the gate has been opened as it's not posted until months from now.
+--- END KING ---
+
+
+--- Begin meeting ---
+The clergy's demands that the ones responsible for opening the door be killed and the town is closed
+off to outsiders.
+
+The nobility demand a scouting party is sent outside and wants to communciate with the outside world. 
+It could bring an era of propertiy to waterway.
+
+First you'll need to convince the clergy not to kill you DC 15.
+
+There's a few other endings where A they denounce their god and provide support 
+
+You annoy them and they attack in the town hall. You will also face them at the gate.
+
+Afterwards you'll want to convince them to send a scouting party. The scouting party 
+will help you with exploring outside the gate and fighting valentine. You can also 
+get this outcome for killing the clergy.
+--- end meeting ---
