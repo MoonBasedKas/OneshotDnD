@@ -1,0 +1,9 @@
+When arriving there will be priests. They'll ask for your writ and if not presented they will 
+take you to the obelisk to get a god given writ. 
+
+Begin obelisk sequence.
+
+After that sequence you can no longer enter the Templte without beginning combat.
+
+Headpriest is a level 12 cleric.
+

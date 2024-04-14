@@ -54,6 +54,14 @@ Description
 
 
 --
+--
+Attack Type: Short Bow
+Attack Bonus: 4
+Damage: 1d6 + 4
+Description
+
+
+--
 ------------------------------------------------------------
 Misc Proficiencies
 --
