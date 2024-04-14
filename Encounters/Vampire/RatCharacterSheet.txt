@@ -1,0 +1,111 @@
+Rat
+Rat
+Rat
+------------------------------------------------------------
+Armor Class: 10
+Speed: 20
+Initiative: 0
+Health: 1
+Current Health: 1
+------------------------------------------------------------
+Str: 4
+Dex: 11
+Con: 9
+Int: 2
+Wis 10
+Cha 4
+------------------------------------------------------------
+Saving Throws
+--
+Strength: -3
+Dexterity: 0
+Constitution: -1
+Intelligence: -4
+Wisdom: 4
+Charisma: -3
+------------------------------------------------------------
+Skills
+--
+Athletics: -3
+Acrobatics: 0
+Sleight of Hand: 0
+Stealth: 0
+Arcana: -4
+History: -4
+Investigation: -4
+Nature: -4
+Religion: -4
+Animal Handling: 0
+Insight: 0
+Medicine: 0
+Perception: 0
+Survival: 0
+Deception: -3
+Performance: -3
+Intimidation: -3
+Persuasion: -3
+------------------------------------------------------------
+Attacks
+--
+Attack Type: Bite
+Attack Bonus: 0
+Damage: 1 piercing 
+Description
+
+
+--
+------------------------------------------------------------
+Misc Proficiencies
+--
+Proficiency: 
+--
+------------------------------------------------------------
+Traits
+------------------------------------------------------------
+Trait: 
+--
+Description
+
+
+--
+------------------------------------------------------------
+Equipment
+------------------------------------------------------------
+Item: 
+--
+Description
+
+
+--
+------------------------------------------------------------
+------------------------------------------------------------
+Spells
+--
+-
+Spell: 
+Description:
+
+
+-
+--
+------------------------------------------------------------
+Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 
+Used Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 

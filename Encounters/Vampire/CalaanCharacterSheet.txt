@@ -1,0 +1,153 @@
+THE RAT KING
+Warlock
+Human
+------------------------------------------------------------
+Armor Class: 14
+Speed: 30
+Initiative: 0
+Health: 36
+Current Health: 46 
+------------------------------------------------------------
+Str: 16
+Dex: 11
+Con: 12
+Int: 11
+Wis 6
+Cha 18
+------------------------------------------------------------
+Saving Throws
+--
+Strength: 3
+Dexterity: 0
+Constitution: 1
+Intelligence: 0
+Wisdom: 1
+Charisma: 7
+------------------------------------------------------------
+Skills
+--
+Athletics: 3
+Acrobatics: 0
+Sleight of Hand: 0
+Stealth: 3
+Arcana: 0
+History: 0
+Investigation: 3
+Nature: 0
+Religion: 0
+Animal Handling: -2
+Insight: -2
+Medicine: -2
+Perception: -2
+Survival: -2
+Deception: 4
+Performance: 4
+Intimidation: 7
+Persuasion: 4
+------------------------------------------------------------
+Attacks
+--
+Attack Type: Short Sword of draining 
+Attack Bonus: 6
+Damage: 1d8 + 3 Slashing 
+Description
+Heal 1d4 hp per successful hit.
+On critical hit gain 10 temperary hitpoints.
+
+--
+Attacks
+--
+Attack Type: Eldritch Blast
+Attack Bonus: 7
+Damage: 1d10 * 2
+Description
+Two seperate beams that each make their own attack.
+
+
+--
+Attacks
+--
+Attack Type: 
+Attack Bonus: 
+Damage:
+Description
+
+
+--
+------------------------------------------------------------
+Misc Proficiencies
+--
+Proficiency: 
+--
+------------------------------------------------------------
+Traits
+------------------------------------------------------------
+Trait: RISE RATS 
+--
+Description
+Always have at least 4 rats nearby. When there are less than 4 rats another 
+2d4 + 4 rats are summoned near the rat king within 20ft.
+
+--
+------------------------------------------------------------
+Equipment
+------------------------------------------------------------
+Item: Staff of rats 
+--
+Description
+Once per long rest summon 2d4 rats within 5ft.
+
+--
+Item: Valentine's rise
+--
+Description
+Key item.
+
+--
+------------------------------------------------------------
+------------------------------------------------------------
+Spells
+--
+-
+Spell: Cause Fear 
+Description:
+You awaken the sense of mortality in one creature you can see within range. A construct or an undead is immune to this effect. The target must succeed on a Wisdom saving throw or become frightened of you until the spell ends. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.
+
+-
+-
+Spell: Invisibility
+Description:
+Turn invisible for an hour. If you are within 5ft the opponent can roll as 20 DC Perception
+roll and be unvieled.
+
+-
+-
+Spell: Hold Person 
+Description:
+Wisdom save dc upon failure the person in unable to move and all hits auto hit.
+
+-
+--
+------------------------------------------------------------
+Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 
+Used Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 

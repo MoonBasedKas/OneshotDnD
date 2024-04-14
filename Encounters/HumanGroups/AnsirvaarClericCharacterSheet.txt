@@ -1,0 +1,150 @@
+AnsirvaarCleric
+Cleric
+humnan
+------------------------------------------------------------
+Armor Class: 20
+Speed: 30
+Initiative: 0
+Health: 48
+Current Health: 48 
+------------------------------------------------------------
+Str: 15
+Dex: 11
+Con: 14
+Int: 11
+Wis 18
+Cha 18
+------------------------------------------------------------
+Saving Throws
+--
+Strength: 2
+Dexterity: 0
+Constitution: 2
+Intelligence: 0
+Wisdom: 7
+Charisma: 4
+------------------------------------------------------------
+Skills
+--
+Athletics: 2
+Acrobatics: 0
+Sleight of Hand: 0
+Stealth: 0
+Arcana: 0
+History: 0
+Investigation: 0
+Nature: 0
+Religion: 3
+Animal Handling: 4
+Insight: 4
+Medicine: 7
+Perception: 4
+Survival: 4
+Deception: 4
+Performance: 4
+Intimidation: 4
+Persuasion: 4
+------------------------------------------------------------
+Attacks
+--
+Attack Type: Sacred flame
+Attack Bonus: DC 18
+Damage: 2d8 radiant 
+Description 
+Oppent must succed a Dexterity saving throw otherwise take 2d8 radiant damage.
+
+
+--
+Attacks
+--
+Attack Type: One handed crossbow
+Attack Bonus: 4
+Damage: 1d8 + 4
+Description
+Can only be shot once per turn.
+
+If you dash can be used as a bonus action.
+
+
+--
+Attacks
+--
+Attack Type: Mace of ansirvarr 
+Attack Bonus: 5
+Damage: 1d8 + 2 bludging + 1d4 radiant
+Description
+
+
+--
+------------------------------------------------------------
+Misc Proficiencies
+--
+Proficiency: 
+--
+------------------------------------------------------------
+Traits
+------------------------------------------------------------
+Trait: 
+--
+Description
+
+
+--
+------------------------------------------------------------
+Equipment
+------------------------------------------------------------
+Item: 
+--
+Description
+
+
+--
+------------------------------------------------------------
+------------------------------------------------------------
+Spells
+--
+-
+Spell: Cure Wounds 
+Description:
+Heal 1d8 + 7 hp + levels d8
+lvl 1
+-
+-
+Spell: Bless
+Description:
+Bless 2 others + levels 
+for their next 10 turns they have a +1d4 to any attack rolls.
+
+Concentration
+-
+-
+Spell: Hold person
+Description:
+The person must save a wisdom saving throw or be unable to move for the next 60 seconds.
+May reattempt each turn.
+
+Attacks auto succed.
+
+-
+--
+------------------------------------------------------------
+Spell slots:
+1: 4
+2: 3
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 
+Used Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 

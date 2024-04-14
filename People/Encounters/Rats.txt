@@ -1,0 +1,3 @@
+Attacked by a group of 20 rats + 1 greater rat.
+
+Generic rat but with 4hp, +4 to attack and +3 to damage.

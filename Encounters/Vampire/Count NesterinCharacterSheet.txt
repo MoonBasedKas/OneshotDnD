@@ -1,0 +1,156 @@
+Count Nesterin
+Champion Fighter
+Vampire
+------------------------------------------------------------
+Armor Class: 15
+Speed: 35
+Initiative: 
+Health: 54
+Current Health: 54
+------------------------------------------------------------
+Str: 16
+Dex: 16
+Con: 16
+Int: 11
+Wis 10
+Cha 12
+------------------------------------------------------------
+Saving Throws
+--
+Strength: 6
+Dexterity: 3
+Constitution: 6
+Intelligence: 0
+Wisdom: 0
+Charisma: 1
+------------------------------------------------------------
+Skills
+--
+Athletics: 3
+Acrobatics: 6
+Sleight of Hand: 3
+Stealth: 3
+Arcana: 0
+History: 3
+Investigation: 0
+Nature: 0
+Religion: 0
+Animal Handling: 0
+Insight: 0
+Medicine: 0
+Perception: 0
+Survival: 3
+Deception: 1
+Performance: 1
+Intimidation: 1
+Persuasion: 1
+------------------------------------------------------------
+Attacks
+--
+Attack Type: Claws
+Attack Bonus:  6
+Damage:2d4 + 3 slashing
+Description
+
+
+--
+Attacks
+--
+Attack Type: Bite 
+Attack Bonus: 12
+Damage: 1d6 + 3
+Description
+Heal half of the damage dealt.
+Can only be done three times per combat.
+Times Used: 
+
+--
+Attacks
+--
+Attack Type: 
+Attack Bonus: 
+Damage:
+Description
+
+
+--
+Attacks
+--
+Attack Type: 
+Attack Bonus: 
+Damage:
+Description
+
+
+--
+------------------------------------------------------------
+Misc Proficiencies
+--
+Proficiency: 
+--
+------------------------------------------------------------
+Traits
+------------------------------------------------------------
+Trait: Action surge
+--
+Description
+Once per short rest gain restore your movement, actions, and bonus actions.
+
+--
+Trait: Extra attack
+--
+Description
+Can attack twice per turn.
+
+--
+--
+Trait: Improved critical hit
+--
+Description
+19/20 now cause critical hits.
+
+--
+------------------------------------------------------------
+Equipment
+------------------------------------------------------------
+Item: Nesterin Clan Suit
+--
+Description
+Gain the ability to cast hold person once per long rest.
+Once per long rest gain advantage at any investigation check and gain dark vision for a minute (10 turns).
+Gain resistance to Radiant damage.
+
+
+--
+------------------------------------------------------------
+------------------------------------------------------------
+Spells
+--
+-
+Spell: 
+Description:
+
+
+-
+--
+------------------------------------------------------------
+Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 
+Used Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 

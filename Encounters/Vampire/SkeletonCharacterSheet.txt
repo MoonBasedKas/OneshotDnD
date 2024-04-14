@@ -1,0 +1,111 @@
+Skeleton
+N/A
+N/A
+------------------------------------------------------------
+Armor Class: 10
+Speed: 30
+Initiative: 2
+Health: 30
+Current Health: 30
+------------------------------------------------------------
+Str: 10
+Dex: 14
+Con: 15
+Int: 6
+Wis 8
+Cha 5
+------------------------------------------------------------
+Saving Throws
+--
+Strength: 0
+Dexterity: 2
+Constitution: 2
+Intelligence: -2
+Wisdom: -1
+Charisma: -3
+------------------------------------------------------------
+Skills
+--
+Athletics: 0
+Acrobatics: 2
+Sleight of Hand: 2
+Stealth: 2
+Arcana: -2
+History: -2
+Investigation: -2
+Nature: -2
+Religion: -2
+Animal Handling: -1
+Insight: -1
+Medicine: -1
+Perception: -1
+Survival: -1
+Deception: -3
+Performance: -3
+Intimidation: -3
+Persuasion: -3
+------------------------------------------------------------
+Attacks
+--
+Attack Type: Nectrotic Short Bow 
+Attack Bonus: +4
+Damage: 1d6 + 2 + 1d4 (Chance Nectrotic damage)
+Description
+If the target is in a dark area taken additional damage
+
+--
+------------------------------------------------------------
+Misc Proficiencies
+--
+Proficiency: 
+--
+------------------------------------------------------------
+Traits
+------------------------------------------------------------
+Trait: 
+--
+Description
+
+
+--
+------------------------------------------------------------
+Equipment
+------------------------------------------------------------
+Item: 
+--
+Description
+
+
+--
+------------------------------------------------------------
+------------------------------------------------------------
+Spells
+--
+-
+Spell: 
+Description:
+
+
+-
+--
+------------------------------------------------------------
+Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 
+Used Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 

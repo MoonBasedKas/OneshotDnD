@@ -1,0 +1,125 @@
+Zombie
+NA
+NA
+------------------------------------------------------------
+Armor Class: 8
+Speed: 30
+Initiative: -2
+Health: 45
+Current Health: 45 
+------------------------------------------------------------
+Str: 13
+Dex: 6
+Con: 16
+Int: 3
+Wis 6
+Cha 5
+------------------------------------------------------------
+Saving Throws
+--
+Strength: 1
+Dexterity: -2
+Constitution: 3
+Intelligence: -4
+Wisdom: 0
+Charisma: -3
+------------------------------------------------------------
+Skills
+--
+Athletics: 1
+Acrobatics: -2
+Sleight of Hand: -2
+Stealth: -2
+Arcana: -4
+History: -4
+Investigation: -4
+Nature: -4
+Religion: -4
+Animal Handling: -2
+Insight: -2
+Medicine: -2
+Perception: -2
+Survival: -2
+Deception: -3
+Performance: -3
+Intimidation: -3
+Persuasion: -3
+------------------------------------------------------------
+Attacks
+--
+Attack Type: Slam
+Attack Bonus: 3
+Damage: 1d6 + 1
+Description
+
+
+--
+------------------------------------------------------------
+Misc Proficiencies
+--
+Proficiency: 
+--
+------------------------------------------------------------
+Traits
+------------------------------------------------------------
+Trait: Undead fortitude
+--
+Description
+Must succeed a DC 5 + health. If succeeds health returns to 1. 
+
+Occurs whenever health is at or below zero.
+
+--
+Trait: 
+--
+Description
+
+
+--
+Trait: 
+--
+Description
+
+
+--
+------------------------------------------------------------
+Equipment
+------------------------------------------------------------
+Item: 
+--
+Description
+
+
+--
+------------------------------------------------------------
+------------------------------------------------------------
+Spells
+--
+-
+Spell: 
+Description:
+
+
+-
+--
+------------------------------------------------------------
+Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 
+Used Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 
