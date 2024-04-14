@@ -1,0 +1,9 @@
+There is a magic door with a button next to it.
+Pressing the button will cause a 1d8 + 8 ice damage.
+
+To open the door you need to minimize and go through a passage and press a level.
+
+There you will be attacked by 5 zombie rats.
+
+Regular rats except with the zombie trait where they need to succed a 5 + health DC saving
+throw.

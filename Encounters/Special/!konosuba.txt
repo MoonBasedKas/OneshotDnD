@@ -1,0 +1,3 @@
+Formido will attack the party.
+
+If everyone is asleep everyone will wake on the very last turn before the explosion.

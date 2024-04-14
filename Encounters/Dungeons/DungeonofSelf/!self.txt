@@ -1,0 +1,4 @@
+Will be attacked with exact clones of yourself.
+
+Upon leaving the chamber if you attacked someone who wasn't yourself will trigger another 
+encounter.

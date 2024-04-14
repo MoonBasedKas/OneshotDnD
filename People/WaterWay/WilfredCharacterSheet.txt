@@ -2,7 +2,7 @@ Wilfred
 Rouge Mastermind
 Human
 ------------------------------------------------------------
-Armor Class: 
+Armor Class: 14
 Speed: 30
 Initiative: 
 Health: 56

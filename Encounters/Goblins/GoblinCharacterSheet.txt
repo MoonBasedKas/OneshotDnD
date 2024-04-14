@@ -1,55 +1,55 @@
-Kryell
-Wizard Abjuration
-Wood Elf
+Goblin
+NA
+Goblin
 ------------------------------------------------------------
-Armor Class: 12
-Speed: 45
+Armor Class: 15
+Speed: 25
 Initiative: 2
-Health: 60
-Current Health: 60
+Health: 36
+Current Health: 36 
 ------------------------------------------------------------
-Str: 8
+Str: 10
 Dex: 14
 Con: 12
-Int: 20
-Wis 14
-Cha 12
+Int: 10
+Wis 8
+Cha 8
 ------------------------------------------------------------
 Saving Throws
 --
-Strength: -1
+Strength: 0
 Dexterity: 2
 Constitution: 1
-Intelligence: 9
-Wisdom: 6
-Charisma: 1
+Intelligence: 0
+Wisdom: -1
+Charisma: -1
 ------------------------------------------------------------
 Skills
 --
-Athletics: -1
+Athletics: 0
 Acrobatics: 2
 Sleight of Hand: 2
 Stealth: 6
-Arcana: 9
-History: 5
-Investigation: 9
-Nature: 5
-Religion: 5
-Animal Handling: 2
-Insight: 6
-Medicine: 2
-Perception: 6
-Survival: 2
-Deception: 1
-Performance: 1
-Intimidation: 1
-Persuasion: 5
+Arcana: 0
+History: 0
+Investigation: 0
+Nature: 0
+Religion: 0
+Animal Handling: -1
+Insight: -1
+Medicine: -1
+Perception: 1
+Survival: -1
+Deception: -1
+Performance: -1
+Intimidation: -1
+Persuasion: -1
 ------------------------------------------------------------
 Attacks
 --
-Attack Type: 
-Attack Bonus: 
-Damage:
+Attack Type: Schimitar
+Attack Bonus: 4
+Damage: 1d6 + 4
 Description
 
 
@@ -83,7 +83,7 @@ Spells
 --
 -
 Spell: 
-Description:
+Description: 
 
 
 -

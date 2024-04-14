@@ -51,8 +51,8 @@ Attack Type: EXPLOSION
 Attack Bonus: always hit
 Damage: 20d20 fire damage + 5d4 Force damage
 Description
-After a 10 turn charge unleash an 20ft radial explosion dealing 20d20 damage within the explosion.
-Within a 100ft radial deal 5d4 force damage.
+After a 10 turn charge unleash an 50ft radial explosion dealing 20d20 damage within the explosion.
+Within a 200ft radial deal 5d4 force damage.
 User is incapaciated after use.
 
 

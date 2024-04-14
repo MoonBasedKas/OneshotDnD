@@ -1,0 +1,140 @@
+The Narrator
+Wizard
+Unknown
+------------------------------------------------------------
+Armor Class: 17
+Speed: 30
+Initiative: 11
+Health: 120
+Current Health: 120
+------------------------------------------------------------
+Str: 12
+Dex: 19
+Con: 15
+Int: 20
+Wis 20
+Cha 10
+------------------------------------------------------------
+Saving Throws
+--
+Strength: 1
+Dexterity: 4
+Constitution: 2
+Intelligence: 9
+Wisdom: 9
+Charisma: 0
+------------------------------------------------------------
+Skills
+--
+Athletics: 1
+Acrobatics: 4
+Sleight of Hand: 4
+Stealth: 4
+Arcana: 13
+History: 17
+Investigation: 9
+Nature: 9
+Religion: 9
+Animal Handling: 5
+Insight: 5
+Medicine: 9
+Perception: 9
+Survival: 5
+Deception: 0
+Performance: 0
+Intimidation: 0
+Persuasion: 0
+------------------------------------------------------------
+Attacks
+--
+Attack Type: Shocking grasp
+Attack Bonus: 9
+Damage: 3d10 
+Description
+A creature within melee range is grabbed. If they have metal armor the attack is at 
+advantage.
+
+After a successful attack the attacker can no longer deal attacks.
+--
+Attacks
+--
+Attack Type: Eldrith blast 
+Attack Bonus: 9
+Damage: 1d10 * 3
+Description
+Can hit up to 3 seperate targets. Each roll is made seperately.
+
+--
+Attacks
+--
+Attack Type: 
+Attack Bonus: 
+Damage:
+Description
+
+
+--
+------------------------------------------------------------
+Misc Proficiencies
+--
+Proficiency: 
+--
+------------------------------------------------------------
+Traits
+------------------------------------------------------------
+Trait: 
+--
+Description
+
+
+--
+Trait: Unbound spells
+--
+Description
+Single target ranged spells without AOE can continue going behind the target to hit a second target.
+
+--
+Trait: Alert
+--
+Description
+Can not be surprised +7 to intitaitve
+
+--
+------------------------------------------------------------
+Equipment
+------------------------------------------------------------
+Item: Staff of telekinesis
+--
+Description
+Target makes a Dexterity saving throw against your best sepll casting modifier
+Upon success can throw a choosen opent up to 30ft away for 10 turns.
+
+Use once per short rest.
+--
+------------------------------------------------------------
+------------------------------------------------------------
+Spells
+--
+The entire wizard spell book up to level 6
+--
+------------------------------------------------------------
+Spell slots:
+1: 4
+2: 4
+3: 4
+4: 3
+5: 2
+6: 1
+7: 
+8: 
+9: 
+Used Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 

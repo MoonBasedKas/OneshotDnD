@@ -2,11 +2,11 @@ Mal BARD
 Bard
 Human
 ------------------------------------------------------------
-Armor Class: 
+Armor Class: 12
 Speed: 30
-Initiative: 
+Initiative: 2
 Health: 14
-Current Health: 
+Current Health: 14
 ------------------------------------------------------------
 Str: 10
 Dex: 14

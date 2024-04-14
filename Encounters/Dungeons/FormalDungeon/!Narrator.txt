@@ -1,0 +1,7 @@
+Located in the dungeon dungeon.
+
+Will ask for the Tale of Valentine and will give You access to the door.
+
+Will give the solution to the puzzle for a DC of 25 or 1000 gold.
+
+Can be picked pocketed.

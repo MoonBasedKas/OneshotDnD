@@ -1,0 +1,148 @@
+The Forgotten One
+Barbarian Bear Totem
+Human
+------------------------------------------------------------
+Armor Class: 19
+Speed: 40
+Initiative: 2
+Health: 72
+Current Health: 72 
+------------------------------------------------------------
+Str: 19
+Dex: 15
+Con: 21
+Int: 8
+Wis 9
+Cha 7
+------------------------------------------------------------
+Saving Throws
+--
+Strength: 7
+Dexterity: 5
+Constitution: 8
+Intelligence: -1
+Wisdom: -1
+Charisma: -2
+------------------------------------------------------------
+Skills
+--
+Athletics: 7
+Acrobatics: 8
+Sleight of Hand: 2
+Stealth: 2
+Arcana: -1
+History: -1
+Investigation: -1
+Nature: -1
+Religion: -1
+Animal Handling: -1
+Insight: -1
+Medicine: -1
+Perception: -1
+Survival: -1
+Deception: -2
+Performance: -2
+Intimidation: 1
+Persuasion: -2
+------------------------------------------------------------
+Attacks
+--
+Attack Type: Great Axe
+Attack Bonus: 9
+Damage: 1d12 + 5
+Description
+Can attack twice.
+
+--
+------------------------------------------------------------
+Misc Proficiencies
+--
+Proficiency: 
+--
+------------------------------------------------------------
+Traits
+------------------------------------------------------------
+Trait: Totem of the Bear
+--
+Description
+While raging you gain resistance to all types of damage.
+
+--
+Trait: Totem of the Bear
+--
+Description
+ You gain the might of a bear. Your carrying capacity (including maximum load and maximum lift) is doubled,
+  and you have advantage on Strength checks made to push, pull, lift, or break objects.
+
+--
+Trait: Reckless attack
+--
+Description
+Starting at 2nd level, you can throw aside all concern for defense to attack with fierce desperation.
+ When you make your first attack on your turn, you can decide to attack recklessly.
+  Doing so gives you advantage on melee weapon attack rolls using Strength during this turn,
+ but attack rolls against you have advantage until your next turn.
+
+--
+Trait: Rage
+--
+Description
+In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action.
+
+While raging, you gain the following benefits if you aren't wearing heavy armor:
+
+    -You have advantage on Strength checks and Strength saving throws.
+    -When you make a melee weapon attack using Strength, you gain a bonus to the damage 
+    roll that increases as you gain levels as a barbarian, as shown in the Rage Damage column of the Barbarian table.
+    -You have resistance to bludgeoning, piercing, and slashing damage.
+
+If you are able to cast spells, you can't cast them or concentrate on them while raging.
+
+Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your
+ turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then.
+  You can also end your rage on your turn as a bonus action.
+
+Once you have raged the number of times shown for your barbarian level in the Rages column of the Barbarian
+ table, you must finish a long rest before you can rage again.
+--
+------------------------------------------------------------
+Equipment
+------------------------------------------------------------
+Item: 
+--
+Description
+
+
+--
+------------------------------------------------------------
+------------------------------------------------------------
+Spells
+--
+-
+Spell: 
+Description:
+
+
+-
+--
+------------------------------------------------------------
+Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 
+Used Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 

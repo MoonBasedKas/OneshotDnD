@@ -1,0 +1,7 @@
+There is a 1d4 chance a door is trapped.
+
+Need to make a 10 Dc perception saving throw.
+
+Attemping to open the door without disarming will cause 1d4 fire/nectrotic/Cold/Physic damage.
+
+Choosen by a 1d4
