@@ -1,0 +1,111 @@
+DeadAdventurer
+Monk
+Human
+------------------------------------------------------------
+Armor Class: 19
+Speed: 60
+Initiative: 4
+Health: 64
+Current Health: 64
+------------------------------------------------------------
+Str: 12
+Dex: 18
+Con: 12
+Int: 10
+Wis 20
+Cha 8
+------------------------------------------------------------
+Saving Throws
+--
+Strength: 1
+Dexterity: 7
+Constitution: 1
+Intelligence: 0
+Wisdom: 8
+Charisma: -1
+------------------------------------------------------------
+Skills
+--
+Athletics: 1
+Acrobatics: 7
+Sleight of Hand: 7
+Stealth: 4
+Arcana: 0
+History: 0
+Investigation: 0
+Nature: 3
+Religion: 0
+Animal Handling: 8
+Insight: 5
+Medicine: 5
+Perception: 5
+Survival: 5
+Deception: -1
+Performance: -1
+Intimidation: -1
+Persuasion: -1
+------------------------------------------------------------
+Attacks
+--
+Attack Type: Unarmed
+Attack Bonus: 8
+Damage: 1d8 + 1d4 + 8 bludgeting + 1d4 Nectrotic
+Description
+Can attack 3 times a turn
+
+--
+------------------------------------------------------------
+Misc Proficiencies
+--
+Proficiency: 
+--
+------------------------------------------------------------
+Traits
+------------------------------------------------------------
+Trait: Tavern Brawler
+--
+Description
+
+
+--
+------------------------------------------------------------
+Equipment
+------------------------------------------------------------
+Item: Nectrotic Gauntlets
+--
+Description
+Unarmed strikes deal 1d4 nectrotic damage.
+
+--
+------------------------------------------------------------
+------------------------------------------------------------
+Spells
+--
+-
+Spell: 
+Description:
+
+
+-
+--
+------------------------------------------------------------
+Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 
+Used Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 

@@ -2,9 +2,9 @@ Alre
 Scout Rouge
 Human
 ------------------------------------------------------------
-Armor Class: 
+Armor Class: 16
 Speed: 30
-Initiative: 
+Initiative: 5
 Health: 48
 Current Health: 
 ------------------------------------------------------------

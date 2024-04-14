@@ -1,0 +1,111 @@
+Peasant
+Peasant
+Human
+------------------------------------------------------------
+Armor Class: 10 
+Speed: 30
+Initiative: 0
+Health: 16
+Current Health: 16
+------------------------------------------------------------
+Str: 10
+Dex: 10
+Con: 10
+Int: 10
+Wis 10
+Cha 10
+------------------------------------------------------------
+Saving Throws
+--
+Strength: 0
+Dexterity: 0
+Constitution: 0
+Intelligence: 0
+Wisdom: 0
+Charisma: 0
+------------------------------------------------------------
+Skills
+--
+Athletics: 0
+Acrobatics: 0
+Sleight of Hand: 0
+Stealth: 0
+Arcana: 0
+History: 0
+Investigation: 0
+Nature: 0
+Religion: 0
+Animal Handling: 0
+Insight: 0
+Medicine: 0
+Perception: 0
+Survival: 0
+Deception: 0
+Performance: 0
+Intimidation: 0
+Persuasion: 0
+------------------------------------------------------------
+Attacks
+--
+Attack Type: Dagger
+Attack Bonus: 2
+Damage: 1d4 + 2
+Description
+
+
+--
+------------------------------------------------------------
+Misc Proficiencies
+--
+Proficiency: 
+--
+------------------------------------------------------------
+Traits
+------------------------------------------------------------
+Trait: 
+--
+Description
+
+
+--
+------------------------------------------------------------
+Equipment
+------------------------------------------------------------
+Item: 
+--
+Description
+
+
+--
+------------------------------------------------------------
+------------------------------------------------------------
+Spells
+--
+-
+Spell: 
+Description:
+
+
+-
+--
+------------------------------------------------------------
+Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 
+Used Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 
